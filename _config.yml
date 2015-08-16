@@ -1,11 +1,11 @@
 # Site settings
 title: "Allen Kleiner"
-email: akleiner24@gmail.com
+email: "akleiner24@gmail.com"
 description: "Allen Kleiner is a software developer currently studying Comptuter Science at the University of Illinois at Urbana-Champaign"
 baseurl: ""
 url: "http://allenk.me"
 title_description: "Hi there! My name is Allen Kleiner, and I am currently a third-year computer science student at UIUC. I've previously worked at Apple, Wolfram Research, and State Farm. My interests are full-stack web development, information retreival, systems programming, and application performance."
-title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title_image: "https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10614265_10205087553093730_6837536050064290726_n.jpg?oh=c6b8e4efdf6ba1cd34eeab7418312787&oe=56805C57"
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
 github_repository: https://github.com/akleiner2/akleiner2.github.io.git
