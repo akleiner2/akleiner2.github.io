@@ -36,7 +36,6 @@ layout: default
               <h2> Latest Blog Posts </h2>
 
               <ul>
-                  {% if site.posts.length %}
                     {% for post in site.posts | limit: site.post_limit %}
 
                       <li>
@@ -51,9 +50,6 @@ layout: default
                       </li>
                     {% endif %}
 
-                  {% else %}
-                    <li> Whoops! Looks like there are no posts here! </li>
-                  {% endif %}
               </ul>
 
             </div>
