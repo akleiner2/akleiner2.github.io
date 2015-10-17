@@ -26,8 +26,8 @@ function akParseFloat(str) {
     while (i < num.length) { 
         var val = num.charCodeAt(i) - 48;
         res += val * Math.pow(10, place);
-        place++; 
-        i--; 
+        place--; 
+        i++; 
     }
         
     return res;
