@@ -83,6 +83,7 @@ layout: default
       </div>
       {% endif %}
 
+      {% if site.posts.size > 0 %}
       <div class="content-panel related clearfix">
         {% for post in site.related_posts limit:1 %}
         <div class="related-header">
@@ -118,6 +119,7 @@ layout: default
           {% endif %}
         </div>
       </div>
+      {% endif %}
 
     </div>
 
