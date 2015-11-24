@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      Don't let your dreams be dreams!
+title:      Pursuing a different passion
 author:     Allen Kleiner
 date:       2015-11-24 05:18:20
 summary:    Don't let something stop you from doing what you wanna do.
-categories: Following goals, Beatboxing
+categories: T-Pain
 tags:
  - Beatbox
  - No Comment A Cappella
@@ -51,6 +51,8 @@ Fast forward to the first week of freshman year, I auditioned for the group. Aft
 --- 
 
 Being in No Comment has definitely been one of my favorite organizations that I'm involved with on campus. It's given me some awesome friends, but even more importantly, it has allowed me to discover and pursue what has turned out to be one of my favorite hobbies/pasttimes/passions. 
+
+![No Comment 2015-2016](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/12109034_10153653059158680_771022743339966554_n.jpg?oh=5758f5185a39f07013f6adb313ae5110&oe=56F54C3E)
 
 Beatboxing has become a big part of my life. I'm almost always beatboxing when I'm listening to music, not listening to music, doing homework, not doing homework...you get the drift. 
 
