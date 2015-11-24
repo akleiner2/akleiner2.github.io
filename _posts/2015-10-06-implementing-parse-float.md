@@ -15,7 +15,7 @@ Since this is a pretty common interview question, I wanted to give my crack at a
 
 When I was thinking about the problem, this was the first solution that I came up with:
 
-```
+```javascript
 function akParseFloat(str) {
     var decIndex = str.indexOf("."),
         num = str.substring(0, decIndex) + str.substring(decIndex+1), 
