@@ -4,16 +4,10 @@ title:      Pursuing a different passion
 author:     Allen Kleiner
 date:       2015-11-24 05:18:20
 summary:    Don't let something stop you from doing what you wanna do.
-categories: T-Pain
+categories: Passion Free Time
 tags:
  - Beatbox
  - No Comment A Cappella
----
-
-If you don't know where the title of this post is coming from, I highly suggest you waste about a minute of your day by watching this video: [Shia LaBeouf "Just Do It" Motivational Speech (Original Video)](https://www.youtube.com/watch?v=ZXsQAXx_ao0). 
-
-Once you've watched that, now on to the rest of the post! 
-
 ---
 
 For three years of my high school career, I was super into playing lacrosse. Photographic evidence is below: 
