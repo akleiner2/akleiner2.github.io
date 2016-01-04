@@ -4,7 +4,7 @@ title:      Implementing parseFloat
 author:     Allen Kleiner
 date:       2015-10-06 09:52:18
 summary:    Implementing a common JavaScript function from scratch.
-categories: JavaScript Interview Prep
+categories: posts
 tags:
  - JavaScript
  - Interview
@@ -15,7 +15,7 @@ Since this is a pretty common interview question, I wanted to give my crack at a
 
 When I was thinking about the problem, this was the first solution that I came up with:
 
-```javascript
+```
 function akParseFloat(str) {
     var decIndex = str.indexOf("."),
         num = str.substring(0, decIndex) + str.substring(decIndex+1), 

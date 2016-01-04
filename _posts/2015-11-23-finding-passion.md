@@ -3,8 +3,8 @@ layout:     post
 title:      Pursuing a different passion
 author:     Allen Kleiner
 date:       2015-11-24 05:18:20
-summary:    Don't let something stop you from doing what you wanna do.
-categories: Passion Free Time
+summary:    How'd I go from playing lacrosse to doing a cappella? 
+categories: posts
 tags:
  - Beatbox
  - No Comment A Cappella
