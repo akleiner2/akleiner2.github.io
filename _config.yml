@@ -6,7 +6,7 @@ baseurl: ""
 url: "http://allenk.me"
 title_description: "Hi there! My name is Allen Kleiner, and I am currently a third-year computer science student at <a href='http://cs.illinois.edu'>UIUC</a>. I've previously worked at <a href='http://apple.com'>Apple</a>, <a href='http://wolfram.com'>Wolfram Research</a>, and <a href='http://statefarm.com'>State Farm</a>. This summer, I will be an Engineering Intern at <a href='http://www.pinterest.com'>Pinterest</a>. I am interested in full-stack web development, information retrieval, and natural language processing."
 activities_description: "When I'm not coding, you can find me playing basketball with friends, watching the {Texans, Rockets, Astros}, or making the worst dad joke you've heard all year."
-title_image: "https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10614265_10205087553093730_6837536050064290726_n.jpg?oh=c6b8e4efdf6ba1cd34eeab7418312787&oe=56805C57"
+title_image: "https://scontent-iad3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10614265_10205087553093730_6837536050064290726_n.jpg?oh=a59d97dcb60a78aa1a3560d45986e7b5&oe=57461D57"
 github_repository: https://github.com/akleiner2/akleiner2.github.io.git
 post_limit: 5
 
