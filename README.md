@@ -1,1 +1,0 @@
-My personal site, originally based off of the Carte Noire Jekyll theme. 

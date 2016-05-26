@@ -1,68 +1,16 @@
----
-layout: default
----
-
-
-<div class="container-fluid index">
-    <div class="row">
-
-        <div class="col-md-12 main content-panel">
-
-            <div class="gravatar">
-                <img src="{{ site.title_image }}" class="img-circle about-image" height="150" width="150" alt="{{ site.title }}" />
-            </div>
-
-            <h1 class="header author-header" itemprop="headline">{{ site.title }}</h1>
-
-            <div class="author-text">
-              <p> 
-                {{ site.title_description }}
-              </p>
-               <p>
-                {{ site.interests_description }}
-              </p>
-              <p> 
-                {{ site.activities_description }}
-              </p>
-                <p id = "greeting"> Thanks for stopping by my site - have a great <span id = "day">day</span>! </p>
-            </div>
-
-            <div class="links">
-                {% if site.twitter_username %}<a href="http://www.twitter.com/{{ site.twitter_username }}" target="_new"><i class="fa fa-twitter fa-2x"></i></a>{% endif %}
-                {% if site.linkedin_link %}<a href="{{ site.linkedin_link }}" target="_new"><i class="fa fa-linkedin fa-2x"></i></a>{% endif %}
-                {% if site.google_plus_link %}<a href="{{ site.google_plus_link }}" target="_new"><i class="fa fa-google-plus fa-2x"></i></a>{% endif %}
-                {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_new"><i class="fa fa-github-alt fa-2x"></i></a>{% endif %}
-                {% if site.stackoverflow_link %}<a href="{{ site.stackoverflow_link }}" target="_new"><i class="fa fa-stack-overflow fa-2x"></i></a>{% endif %}
-                {% if site.email %}<a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o fa-2x"></i></a>{% endif %}
-            </div>
-          </div>
-
-          <div class="col-md-12 main content-panel">
-
-            <div class="articles">
-
-              <h2> Latest Blog Posts </h2>
-
-              <ul>
-                    {% for post in site.posts | limit: site.post_limit %}
-
-                      <li>
-                          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                          <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
-                      </li>
-
-                    {% endfor %}
-                    {% if site.posts.length > 5 %}
-                      <li>
-                        <small><i><a href="/posts/">more...</a></i></small>
-                      </li>
-                    {% endif %}
-
-              </ul>
-
-            </div>
-
-        </div>
-
-    </div>
-</div>
+<!doctype html> 
+<html>
+    <title> Allen Kleiner </title> 
+    <meta charset="utf-8">
+    <meta name="description" content="Allen Kleiner is a software engineer currently studying computer science at the Univeristy of Illinois at Urbana-Champaign">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/> 
+    <body> 
+        <section class="container"> 
+            <article class="content">
+                <p class="hey"> New site, who dis? </h1>
+                <p class="sup"> (Currently under construction) </h4>
+            </article>
+        </section>
+    <body>
+</html>
