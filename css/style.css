@@ -25,7 +25,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body {
-    line-height: 1;
+    line-height: 1.25;
 }
 
 ol, ul {
@@ -54,12 +54,24 @@ body {
 }
 
 a {
+    border-bottom: 2px solid black;
     color: inherit;
-    text-decoration: underline;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
 }
 
 h3 {
-    font-size: 1.6em;
+    font-size: 2.0em;
+    font-weight: bold;
+}
+
+p {
+    font-family: "Lora", sans serif;
+    font-size: 1.15em;
 }
 
 .flex {
