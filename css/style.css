@@ -49,12 +49,11 @@ table {
 
 body {
     font-family: "Lato", sans serif;
-    background-color: #fffff5;
     height: 100vh;
 }
 
 a {
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid;
     color: inherit;
     font-weight: bold;
     text-decoration: none;
@@ -65,13 +64,17 @@ a:hover {
 }
 
 h3 {
-    font-size: 2.0em;
+    font-size: 2.3em;
     font-weight: bold;
 }
 
 p {
     font-family: "Lora", sans serif;
     font-size: 1.15em;
+}
+
+h3, a {
+    color: #531ddf;
 }
 
 .flex {
