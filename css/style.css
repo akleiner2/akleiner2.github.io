@@ -25,7 +25,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body {
-    line-height: 1.25;
+    line-height: 1.4;
 }
 
 ol, ul {
@@ -53,9 +53,9 @@ body {
 }
 
 a {
-    border-bottom: 2px solid;
     color: inherit;
     font-weight: bold;
+    border-bottom: 2px solid;
     text-decoration: none;
 }
 
@@ -100,7 +100,7 @@ h3, a {
 }
 
 .content > h3, .content > p {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 @media (max-width: 600px) {
