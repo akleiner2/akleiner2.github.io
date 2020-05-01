@@ -15,6 +15,14 @@
         analytics.page();
         }}();
     </script>
+    <script>
+        (function() {
+        analytics.track({
+            event: "Page viewed",
+            currentTime: Date.now(),
+        })
+        })()
+    </script>
     <body class="flex items-center content-center">
         <div class="content">
             <h3> Hey! I'm Allen. </h3>
