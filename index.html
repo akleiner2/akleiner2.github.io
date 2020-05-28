@@ -16,6 +16,13 @@
         analytics.track("Test event", {
             test: "hello"
         })
+
+        analytics.identify("97980cfea0067", {
+            name: "Peter Gibbons",
+            email: "peter@example.com",
+            plan: "premium",
+            logins: 5
+        })
         }}();
       </script>
     <body class="flex items-center content-center">
